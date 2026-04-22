@@ -30,4 +30,3 @@ This folder contains a small collection of mini projects built with Java, Python
 - `Expense_tracker_py/` - Python expense management tool with charting.
 - `FareCalculator/` - Python fare estimation utility.
 - `password_validator/` - Java password validation program.
->>>>>>> 2dd3aa1 (Initial commit)
