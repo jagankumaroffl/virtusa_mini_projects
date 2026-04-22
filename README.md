@@ -1,6 +1,3 @@
-# virtusa_mini_projects
-This repository contains a collection of mini projects developed during Virtusa’s training program
-=======
 # Virtusa Mini Projects
 
 This folder contains a small collection of mini projects built with Java, Python, and SQL.
